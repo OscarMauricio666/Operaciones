@@ -5,7 +5,8 @@ import "fmt"
 func main() {
 	/*
 		Se debe realizar un ejercicio el cual permita hacer resta sin restar
-		sumar sin sumar dividir sin dividir y multiplicar sin multiplicar tambien potenciar
+		sumar sin sumar dividir sin dividir y multiplicar sin multiplicar tambien potenciar.
+		Es decir realizar suma sin el signo de sumar implicito, y así susesivamente con cada operación.
 	*/
 	inicio := "Este programa cálcula 2 números. Resta, Suma, Multiplica, Divide, Potencia y obtiene Raiz "
 	inserta_numero := "Por favor ingresa número"
